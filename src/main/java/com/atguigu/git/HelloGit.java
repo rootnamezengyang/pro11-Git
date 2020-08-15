@@ -5,5 +5,6 @@ public class HelloGit {
 		System.out.println("aaaa");
 		System.out.println("bbbb");
 		//edit by right
+		//edit by left
 	}
 }
