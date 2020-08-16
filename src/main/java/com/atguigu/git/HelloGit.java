@@ -6,5 +6,7 @@ public class HelloGit {
 		System.out.println("bbbb");
 		//edit by right
 		//edit by left
+		
+		System.out.println("edit by hot_fix");
 	}
 }
